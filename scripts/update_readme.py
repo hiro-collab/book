@@ -13,10 +13,15 @@ README_HEADER = """# 目指せ1000日記録プロジェクト：実装作業日�
 
 📌 [記録用テンプレートはこちら](https://github.com/hiro-collab/book/blob/main/1000_days_prompt_script.md)
 
-📅 各日の記録：
+## 📅 各日の記録
 """
 
 README_FOOTER = """
+
+---
+
+## 📖 思想・構想
+
 📖 [思想の核・構想はこちら（book_concept.md）](https://github.com/hiro-collab/book/blob/main/book_concept.md)
 """
 
