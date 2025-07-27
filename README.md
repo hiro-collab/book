@@ -11,3 +11,6 @@ https://github.com/hiro-collab/book/blob/main/Day005.md
 https://github.com/hiro-collab/book/blob/main/Day006.md
 https://github.com/hiro-collab/book/blob/main/Day007.md
 https://github.com/hiro-collab/book/blob/main/Day008.md
+
+最終文書のコンセプト
+https://github.com/hiro-collab/book/blob/main/book_concept.md
