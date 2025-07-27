@@ -3,7 +3,8 @@ name: Update README with Day Links
 on:
   push:
     paths:
-      - 'Day*.md'
+      - 'days/Day*.md'
+
 
 jobs:
   update-readme:

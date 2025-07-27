@@ -27,7 +27,7 @@ README_FOOTER = """
 
 def find_day_files():
     files = []
-    for fname in os.listdir("."):
+    for fname in os.listdir("days"):
         if re.match(r"Day\d{3}\.md", fname):
             files.append(fname)
     files.sort()
@@ -37,7 +37,7 @@ def make_day_links(files):
     links = []
     for f in files:
         day = f.replace(".md", "")
-        links.append(f"- [{day}](https://github.com/hiro-collab/book/blob/main/{f})")
+        links.append(f"- [{day}](https://github.com/hiro-collab/book/blob/main/days/{f})")
     return "\n".join(links)
 
 def main():
@@ -46,8 +46,10 @@ def main():
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(README_HEADER)
+        f.write("\n")
         f.write(links)
         f.write(README_FOOTER)
+
 
 if __name__ == "__main__":
     main()
