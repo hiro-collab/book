@@ -8,7 +8,7 @@
 
 📌 [記録用テンプレートはこちら](https://github.com/hiro-collab/book/blob/main/1000_days_prompt_script.md)
 
-📅 各日の記録：
+## 📅 各日の記録
 - [Day001](https://github.com/hiro-collab/book/blob/main/Day001.md)
 - [Day002](https://github.com/hiro-collab/book/blob/main/Day002.md)
 - [Day003](https://github.com/hiro-collab/book/blob/main/Day003.md)
@@ -17,5 +17,9 @@
 - [Day006](https://github.com/hiro-collab/book/blob/main/Day006.md)
 - [Day007](https://github.com/hiro-collab/book/blob/main/Day007.md)
 - [Day008](https://github.com/hiro-collab/book/blob/main/Day008.md)
-- [Day009](https://github.com/hiro-collab/book/blob/main/Day009.md)
+
+---
+
+## 📖 思想・構想
+
 📖 [思想の核・構想はこちら（book_concept.md）](https://github.com/hiro-collab/book/blob/main/book_concept.md)
