@@ -40,3 +40,4 @@
 ## 📖 思想・構想
 
 📖 [思想の核・構想はこちら（book_concept.md）](https://github.com/hiro-collab/book/blob/main/book_concept.md)
+📖 [bot化構想はこちら（RAG_Bot_Project_Plan.md）](https://github.com/hiro-collab/book/blob/main/RAG_Bot_Project_Plan.md)
