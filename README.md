@@ -34,10 +34,10 @@
 - [Day022](https://github.com/hiro-collab/book/blob/main/days/Day022.md)
 - [Day023](https://github.com/hiro-collab/book/blob/main/days/Day023.md)
 - [Day024](https://github.com/hiro-collab/book/blob/main/days/Day024.md)
+- [Day025](https://github.com/hiro-collab/book/blob/main/days/Day025.md)
 
 ---
 
 ## 📖 思想・構想
 
 📖 [思想の核・構想はこちら（book_concept.md）](https://github.com/hiro-collab/book/blob/main/book_concept.md)
-📖 [bot化構想はこちら（RAG_Bot_Project_Plan.md）](https://github.com/hiro-collab/book/blob/main/RAG_Bot_Project_Plan.md)
