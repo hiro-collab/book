@@ -103,6 +103,13 @@ rag-bot/
 
 ---
 
+## 使用PC
+- デバイス名	DESKTOP G-GEAR
+- プロセッサ	12th Gen Intel(R) Core(TM) i7-12700KF (3.60 GHz)
+- 実装 RAM	32.0 GB
+- グラフィックボード NVIDIA GeForce RTX 3070
+- VRAM 8 GB
+
 ## ✅ 次に決めること（次回チャット用）
 - X/Slack/GmailのAPIキー取得方法
 - 承認フローのSlackチャンネル/DMの仕様
