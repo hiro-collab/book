@@ -36,6 +36,7 @@
 - [Day024](https://github.com/hiro-collab/book/blob/main/days/Day024.md)
 - [Day025](https://github.com/hiro-collab/book/blob/main/days/Day025.md)
 - [Day026](https://github.com/hiro-collab/book/blob/main/days/Day026.md)
+- [Day027](https://github.com/hiro-collab/book/blob/main/days/Day027.md)
 
 ---
 
