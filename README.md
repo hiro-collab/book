@@ -38,11 +38,10 @@
 - [Day026](https://github.com/hiro-collab/book/blob/main/days/Day026.md)
 - [Day027](https://github.com/hiro-collab/book/blob/main/days/Day027.md)
 - [Day028](https://github.com/hiro-collab/book/blob/main/days/Day028.md)
+- [Day029](https://github.com/hiro-collab/book/blob/main/days/Day029.md)
 
 ---
 
 ## 📖 思想・構想
 
-- 📖 [思想の核・構想はこちら（book_concept.md）](https://github.com/hiro-collab/book/blob/main/book_concept.md)
-- 📖 [文書構成案はこちら（summary_plan.md）](https://github.com/hiro-collab/book/blob/main/summary_plan.md)
-_ 📖 [思想の核・構想はこちら（book_concept.md）](https://github.com/hiro-collab/book/blob/main/book_concept.md)
+📖 [思想の核・構想はこちら（book_concept.md）](https://github.com/hiro-collab/book/blob/main/book_concept.md)
