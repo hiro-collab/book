@@ -46,3 +46,5 @@
 ## 📖 思想・構想
 
 📖 [思想の核・構想はこちら（book_concept.md）](https://github.com/hiro-collab/book/blob/main/book_concept.md)
+📖 [Bot作成計画はこちら（RAG_Bot_Project_Plan.md）](https://github.com/hiro-collab/book/blob/main/RAG_Bot_Project_Plan.md)
+📖 [要約構成案はこちら（summary_plan.md）](https://github.com/hiro-collab/book/blob/main/summary_plan.md)
