@@ -48,6 +48,7 @@
 - [Day036](https://github.com/hiro-collab/book/blob/main/days/Day036.md)
 - [Day037](https://github.com/hiro-collab/book/blob/main/days/Day037.md)
 - [Day038](https://github.com/hiro-collab/book/blob/main/days/Day038.md)
+- [Day039](https://github.com/hiro-collab/book/blob/main/days/Day039.md)
 
 ---
 
