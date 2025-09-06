@@ -52,6 +52,11 @@
 - [Day040](https://github.com/hiro-collab/book/blob/main/days/Day040.md)
 - [Day041](https://github.com/hiro-collab/book/blob/main/days/Day041.md)
 - [Day042](https://github.com/hiro-collab/book/blob/main/days/Day042.md)
+- [Day044](https://github.com/hiro-collab/book/blob/main/days/Day044.md)
+- [Day045](https://github.com/hiro-collab/book/blob/main/days/Day045.md)
+- [Day046](https://github.com/hiro-collab/book/blob/main/days/Day046.md)
+- [Day047](https://github.com/hiro-collab/book/blob/main/days/Day047.md)
+- [Day048](https://github.com/hiro-collab/book/blob/main/days/Day048.md)
 
 ---
 
