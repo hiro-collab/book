@@ -1,0 +1,29 @@
+name: Concat Days Markdown
+
+on:
+  push:
+    paths:
+      - "Days/*.md"
+
+jobs:
+  concat:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Run concat script
+        run: python scripts/concat_days.py
+
+      - name: Commit and push result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add all_days.md
+          git commit -m "Update all_days.md (auto-generated)" || echo "No changes to commit"
+          git push
